@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Pablo del Pino Mejia is a Senior DevOPs Engineer with more than 20 years experience in Computer Assembly and network Configuration. as well as Advanced knowledge in Windows Operating Systems from Windows 3.1 to Windows 2016 Server, and Linux-based UNIX Operating Systems, especially Slackware, SuSE, Debian and Ubuntu.
+Pablo del Pino Mejia is a Senior DevOps Engineer with more than 20 years experience in Computer Assembly and network Configuration. as well as Advanced knowledge in Windows Operating Systems from Windows 3.1 to Windows 2016 Server, and Linux-based UNIX Operating Systems, especially Slackware, SuSE, Debian and Ubuntu.
 
 He has a proven ability to manage groups of people, perfect command of the English language and great ease to learn new skills.
 Experience in AWS Cloud Services both in EC2 and Container Service types, as well as Docker Containers.
