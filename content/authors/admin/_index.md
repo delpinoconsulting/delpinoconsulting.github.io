@@ -1,7 +1,6 @@
 ---
 # Display name
 name: Pablo del Pino Mejia
-photo: https://media.licdn.com/dms/image/C4D03AQGvNZXb7XCghg/profile-displayphoto-shrink_200_200/0?e=1580947200&v=beta&t=JXE5hw7lZn2JSbjPlvfDGHLr0FcDyQ0fif1HCSpoVgk
 
 # Username (this should match the folder name)
 authors:
