@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior DevOps Engineer"
   company = "Beanworks Solutions"
-  company_url = "https"//www.beanworks.com"
+  company_url = "https://www.beanworks.com"
   location = "Vancouver, BC"
   date_start = "2019-03-11"
   date_end = ""
