@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-12-11&ci=AWS00257504"
   date_start = "2018-12-11"
   date_end = "2012-12-11"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
   organization = "Docker"
