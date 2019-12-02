@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Senior DevOps Engineer"
   company = "Beanworks Solutions"
@@ -24,7 +25,7 @@ date_format = "Jan 2006"
   location = "Vancouver, BC"
   date_start = "2019-03-11"
   date_end = ""
-  description = """ In charge of Cloud Infrastructure and responsible for Ci/CD and Automation strategies
+  description = """In charge of Cloud Infrastructure and responsible for Ci/CD and Automation strategies
   Responsibilities include:
   
   * Deployment Automation
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   location = "Medellin, CO"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
-  description = """ Responsible for Infrastructure Management both on premises and cloud, using VMWare and AWS, Ci/CD Pipelines using Gitlab and Jenkins. In charge of IT Department for LATAM Region. """
+  description = """Responsible for Infrastructure Management both on premises and cloud, using VMWare and AWS, Ci/CD Pipelines using Gitlab and Jenkins. In charge of IT Department for LATAM Region."""
 
   [[experience]]
   title = "Ssr Cloud Engineer"
@@ -48,7 +49,7 @@ date_format = "Jan 2006"
   location = "Medellin, CO"
   date_start = "2017-11-01"
   date_end = "2018-04-01"
-  description = """ Responsible for Infrastructure Management on Cloud for ESPN Metrics and Logging project (AWS) which includes configuration, as well as design and deployment of solutions, including EC2 Instances, Load Balancers, CloudFormation, S3 and ECS. Implementation of CI-agnostic deployments based on GitHub repositories."""
+  description = """Responsible for Infrastructure Management on Cloud for ESPN Metrics and Logging project (AWS) which includes configuration, as well as design and deployment of solutions, including EC2 Instances, Load Balancers, CloudFormation, S3 and ECS. Implementation of CI-agnostic deployments based on GitHub repositories."""
 
   [[experience]]
   title = "CloudOps Engineer"
@@ -57,6 +58,6 @@ date_format = "Jan 2006"
   location = "Medellin, CO"
   date_start = "2017-02-01"
   date_end = "2017-11-01"
-  description = """ Responsible for Infrastructure Management on Cloud (AWS), which includes management and configuration of physical networking equipment, as well as configuration, design and deployment of solutions, including EC2 Instances, Load Balancers, Route 53, S3 and RDS. Implementation of Continuous Delivery Projects with Jenkins in conjunction with AWS Code Deploy. """
+  description = """Responsible for Infrastructure Management on Cloud (AWS), which includes management and configuration of physical networking equipment, as well as configuration, design and deployment of solutions, including EC2 Instances, Load Balancers, Route 53, S3 and RDS. Implementation of Continuous Delivery Projects with Jenkins in conjunction with AWS Code Deploy."""
 
 +++
