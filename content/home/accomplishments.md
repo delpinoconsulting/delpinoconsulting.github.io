@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "AWS"
+  organization_url = "https://aws.amazon.com/"
+  title = "AWS Certified Solutions Architect - Associate"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-04-19&ci=AWS00257504"
+  date_start = "2017-04-17"
+  date_end = "2021-12-11"
+  description = ""
+
+[[item]]
+  organization = "AWS"
+  organization_url = "https://aws.amazon.com"
+  title = "AWS Certified Solutions Architect - Professional"
+  url = ""
+  certificate_url = "https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-12-11&ci=AWS00257504"
+  date_start = "2018-12-11"
+  date_end = "2012-12-11"
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+[[item]]
+  organization = "Docker"
+  organization_url = "https://www.docker.com/"
+  title = "Docker Administration and Operations"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-07-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com/"
+  title = "Microsoft Certified Professional"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://mcp.microsoft.com/Anonymous//Transcript/Validate"
+  date_start = "2012-04-16"
+  date_end = ""
   description = ""
 
 +++
