@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "IT Lead"
+  title = "IT/DevOps Consultant"
   company = "Growth Acceleration Partners"
   company_url = "https://www.wearegap.com"
   location = "Medellin, CO"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """Responsible for Infrastructure Management both on premises and cloud, using VMWare and AWS, Ci/CD Pipelines using Gitlab and Jenkins. In charge of IT Department for LATAM Region."""
 
   [[experience]]
-  title = "Ssr Cloud Engineer"
+  title = "Ssr Cloud Engineer Consultant"
   company = "Globant"
   company_url = "https://globant.com"
   location = "Medellin, CO"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   description = """Responsible for Infrastructure Management on Cloud for ESPN Metrics and Logging project (AWS) which includes configuration, as well as design and deployment of solutions, including EC2 Instances, Load Balancers, CloudFormation, S3 and ECS. Implementation of CI-agnostic deployments based on GitHub repositories."""
 
   [[experience]]
-  title = "CloudOps Engineer"
+  title = "CloudOps Engineer Consultant"
   company = "Talos Digital"
   company_url = "https://www.talosdigital.com"
   location = "Medellin, CO"
