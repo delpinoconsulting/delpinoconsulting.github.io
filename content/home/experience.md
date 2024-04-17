@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "SoftServe"
   company_url = "https://www.softserveinc.com/en-us"
   location = "Medellin, CO"
-  date_start = "2020-08-29"
+  date_start = "2022-08-29"
   description = """In charge of AWS Cloud Infrastructure and responsible for Infrastructure as Code strategies"""
 
   [[experience]]
