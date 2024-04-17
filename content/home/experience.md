@@ -19,12 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "DevOps Practice Lead"
+  company = "SoftServe"
+  company_url = "https://www.softserveinc.com/en-us"
+  location = "Medellin, CO"
+  date_start = "2020-08-29"
+  description = """In charge of AWS Cloud Infrastructure and responsible for Infrastructure as Code strategies"""
+  
+  title = "Senior DevOps Engineer"
+  company = "Gorilla Logic"
+  company_url = "https://gorillalogic.com"
+  location = "Medellin, CO"
+  date_start = "2020-11-30"
+  date_end = "2022-06-01"
+  description = """In charge of AWS Cloud Infrastructure and responsible for Infrastructure as Code strategies"""
+
   title = "Senior DevOps Engineer"
   company = "Beanworks Solutions"
   company_url = "https://www.beanworks.com"
   location = "Vancouver, BC"
   date_start = "2019-03-11"
-  date_end = ""
+  date_end = "2020-11-01"
   description = """In charge of Cloud Infrastructure and responsible for Ci/CD and Automation strategies
   Responsibilities include:
   
