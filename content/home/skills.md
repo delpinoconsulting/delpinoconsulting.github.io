@@ -33,7 +33,7 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "microchip"
+  icon = "fa-microchip"
   icon_pack = "fas"
   name = "Infrastructure as Code"
   description = "90%"
