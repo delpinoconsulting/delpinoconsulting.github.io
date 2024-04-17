@@ -39,7 +39,7 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
-  icon = "code-fork"
+  icon = "code"
   icon_pack = "fas"
   name = "Branching Strategies"
   description = "90%"
