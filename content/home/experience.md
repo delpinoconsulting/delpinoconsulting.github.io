@@ -18,14 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
+  [[experience]]
   title = "DevOps Practice Lead"
   company = "SoftServe"
   company_url = "https://www.softserveinc.com/en-us"
   location = "Medellin, CO"
   date_start = "2020-08-29"
   description = """In charge of AWS Cloud Infrastructure and responsible for Infrastructure as Code strategies"""
-  
+
+  [[experience]]
   title = "Senior DevOps Engineer"
   company = "Gorilla Logic"
   company_url = "https://gorillalogic.com"
@@ -34,6 +35,7 @@ date_format = "Jan 2006"
   date_end = "2022-06-01"
   description = """In charge of AWS Cloud Infrastructure and responsible for Infrastructure as Code strategies"""
 
+  [[experience]]
   title = "Senior DevOps Engineer"
   company = "Beanworks Solutions"
   company_url = "https://www.beanworks.com"
@@ -48,7 +50,7 @@ date_format = "Jan 2006"
   * AWS Monthly Budget
   """
 
-[[experience]]
+  [[experience]]
   title = "IT/DevOps Consultant"
   company = "Growth Acceleration Partners"
   company_url = "https://www.wearegap.com"
