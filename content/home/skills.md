@@ -27,13 +27,13 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "kubernetes"
+  icon = "docker"
   icon_pack = "fab"
   name = "Containerization"
   description = "80%"
   
 [[feature]]
-  icon = "terraform"
+  icon = "build"
   icon_pack = "fab"
   name = "Infrastructure as Code"
   description = "90%"
