@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "AWS"
-  organization_url = "https://aws.amazon.com/"
-  title = "AWS Certified Solutions Architect - Associate"
+  organization = "Hashicorp"
+  organization_url = "https://www.hashicorp.com/"
+  title = "Terraform Associate"
   url = ""
-  certificate_url = "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-04-19&ci=AWS00257504"
-  date_start = "2017-04-17"
-  date_end = "2021-12-11"
+  certificate_url = "https://www.credly.com/earner/earned/badge/e3a499fe-e4af-463b-a7ff-62f3db47fc9c"
+  date_start = "2023-05-02"
+  date_end = "2025-05-02"
   description = ""
 
 [[item]]
@@ -39,22 +39,22 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Docker"
-  organization_url = "https://www.docker.com/"
-  title = "Docker Administration and Operations"
+  organization = "Linux Foundation"
+  organization_url = "https://www.linuxfoundation.org/"
+  title = "Certified Kubernetes Administrator"
   url = ""
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = ""
+  certificate_url = "https://www.credly.com/earner/earned/badge/2dafac04-656c-4adc-8ddc-a8d58f83a4c2"
+  date_start = "2023-12-08"
+  date_end = "2026-12-08"
   description = ""
 
 [[item]]
-  organization = "Microsoft"
-  organization_url = "https://www.microsoft.com/"
-  title = "Microsoft Certified Professional"
+  organization = "AWS"
+  organization_url = "https://aws.amazon.com/"
+  title = "AWS Partner: Generative AI Essentials"
   url = ""
-  certificate_url = "https://mcp.microsoft.com/Anonymous//Transcript/Validate"
-  date_start = "2012-04-16"
+  certificate_url = "https://www.credly.com/earner/earned/badge/75f0a08c-c29f-4f11-8b9c-811624d61da5"
+  date_start = "2023-11-09"
   date_end = ""
   description = ""
 
