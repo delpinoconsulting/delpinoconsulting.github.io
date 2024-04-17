@@ -33,9 +33,21 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "fa-microchip"
+  icon = "microchip"
   icon_pack = "fas"
   name = "Infrastructure as Code"
+  description = "90%"
+
+[[feature]]
+  icon = "code-merge"
+  icon_pack = "fas"
+  name = "Branching Strategies"
+  description = "90%"
+
+[[feature]]
+  icon = "bullhorn"
+  icon_pack = "fas"
+  name = "Communication and Public-Speaking"
   description = "90%"
 
 +++
