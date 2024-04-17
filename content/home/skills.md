@@ -1,4 +1,4 @@
-+++
+netes+++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -27,9 +27,15 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "docker"
+  icon = "kubernetes"
   icon_pack = "fab"
   name = "Containerization"
-  description = "60%"
+  description = "80%"
+  
+[[feature]]
+  icon = "terraform"
+  icon_pack = "fab"
+  name = "Infrastructure as Code"
+  description = "90%"
 
 +++
