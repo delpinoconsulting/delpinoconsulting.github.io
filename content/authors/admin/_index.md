@@ -14,17 +14,18 @@ role: Senior DevOps Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Beanworks Solutions
-  url: "www.beanworks.com"
+- name: SoftServe
+  url: "https://www.softserveinc.com/en-us"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I enjoy anything related with DevOps, Continuous Delivery and Software Automation. I'm a big fan of Hashicorp's software suite, specially Packer and Terraform. Beer lover.
+bio: I enjoy anything related with DevOps, Continuous Delivery and Software Automation. I'm a big fan of Hashicorp's software suite, specially Packer and Terraform. Beer lover, vinyl Collector, gray-bearded demon and avid traveler.
 
 interests:
 - DevOps
 - Artificial Intelligence
 - Software Automation
 - Music
+- Videogames
 
 education:
   courses:
@@ -66,9 +67,9 @@ user_groups:
 - Visitors
 ---
 
-Pablo del Pino Mejia is a Senior DevOps Engineer with more than 20 years experience in Computer and Cloud Infrastructure, as well as Advanced knowledge in Windows Operating Systems either client or server, and Linux-based UNIX Operating Systems, especially CentOS, Debian and Ubuntu.
+Pablo del Pino Mejia is a Senior DevOps Engineer with more than 25 years experience in Computer and Cloud Infrastructure, as well as Advanced knowledge in Windows Operating Systems either client or server, and Linux-based UNIX Operating Systems, especially CentOS, Debian and Ubuntu. 
 
 He has a proven ability to manage groups of people, perfect command of the English language and great ease to learn new skills.
-Experience in AWS Cloud Services both in EC2 Instances and Container Service types, as well as Docker Administration.
+Experience in AWS Cloud Services, Kubernetes, as well as Infrastructure as Code methodologies.
 
-Fluent in Ci-CD strategies involving Jenkins, as well as in tools such as Packer, Ansible, and Terraform, to automate both local and cloud deployment.
+Fluent in Ci-CD strategies, as well as in tools such as Packer, Ansible, and Terraform, to automate both local and cloud deployment.
