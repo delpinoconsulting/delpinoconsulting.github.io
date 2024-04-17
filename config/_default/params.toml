@@ -86,15 +86,15 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "pablo@delpinomejia.com"
-phone = "(236) 865 1959)"
+phone = "(304) 271 1959)"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1051 Broughton St", city = "Vancouver", region = "BC", postcode = "V6G 0B6", country = "UCanada", country_code = "CA"}
+address = {street = "Cra 72A 30C 12", city = "Medellin", region = "Antioquia", postcode = "050025", country = "Colombia", country_code = "CO"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.285615", longitude = "-123.134232"}
+coordinates = {latitude = "6.232436493269409", longitude = "-75.59324674367322" } , 
 
 # Directions for visitors to locate you.
 directions = "Enter Building and Await further Instructions"
