@@ -48,6 +48,6 @@ subtitle = ""
   icon = "bullhorn"
   icon_pack = "fas"
   name = "Communication and Public-Speaking"
-  description = "90%"
+  description = "100%"
 
 +++
